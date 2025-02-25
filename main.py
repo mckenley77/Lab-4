@@ -58,7 +58,7 @@ def display_deck(deck):
 
 def main():
 
-    print("Welcome to the Pokemon TCG Deck Builder! This Deck Builder will display Pokemon based on the type you enter.")
+    print("Welcome to the Pokemon TCG Deck Builder! This Deck Builder will display Pokemon based on the type you enter. (Ex. Fire, Water, Grass")
 
     pokemon_type = input("Enter a Pokemon type: ")
 
